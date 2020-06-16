@@ -34,6 +34,9 @@
             android:text="Subject"
             android:textColor="#3aaf44"
             android:textSize="14dp"
+            android:fontFamily="@font/helveticaneue"
+            android:textFontWeight="400"
+            android:textStyle="bold"
             android:paddingBottom="16dp"
             android:paddingTop="16dp"
             android:gravity="center"/>
